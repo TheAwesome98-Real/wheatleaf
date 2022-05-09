@@ -1,3 +1,3 @@
-# Wheatleaf
+## Home
 
 Welcome to the docs!
